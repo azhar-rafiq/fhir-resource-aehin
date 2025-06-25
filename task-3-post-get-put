@@ -1,0 +1,3 @@
+POST : http://fhirserver.hl7fundamentals.org/fhir/Patient/31990/_history/1
+</br>GET : http://fhirserver.hl7fundamentals.org/fhir/Patient/31990
+<br/>PUT : http://fhirserver.hl7fundamentals.org/fhir/Patient/31990/_history/2<br/>

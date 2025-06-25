@@ -1,0 +1,7 @@
+Grade: 12 , Feedback : Your attemps :
+http://fhirserver.hl7fundamentals.org/fhir/Patient?_id=31990
+http://fhirserver.hl7fundamentals.org/fhir/Patient?identifier=haru.nami
+http://fhirserver.hl7fundamentals.org/fhir/Patient?family=Nami
+http://fhirserver.hl7fundamentals.org/fhir/Patient?family=Nami&_sort=_id
+http://fhirserver.hl7fundamentals.org/fhir/Patient?given=Haru&gender=male&birthdate=1991-01-01
+http://fhirserver.hl7fundamentals.org/fhir/Patient?address-state=MI&_sort=-_lastUpdated
